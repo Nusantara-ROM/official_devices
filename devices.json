@@ -1,23 +1,16 @@
- [
-    {
-        "name": "",
-        "brand": "",
-        "codename": "",
-        "xda_link": "",
-        "maintainer": ""
-    },
-    {
-        "name": "",
-        "brand": "",
-        "codename": "",
-        "xda_link": "",
-        "maintainer": ""
-    },
-    {
-        "name": "",
-        "brand": "",
-        "codename": "",
-        "xda_link": "",
-        "maintainer": ""
-    }
-]
+{
+  "error": false,
+  "id": "",
+  "filename": "",
+  "datetime": ,
+  "version": "",
+  "size": ,
+  "url": "/download",
+  "filehash": "",
+  "website_url": "https://sourceforge.net/projects/comiingsoon/files/",
+  "news_url": "https://t.me/NusantaraUpdates",
+  "donate_url": "https://www.paypal.me/",
+  "maintainer": "",
+  "maintainer_url": "https://t.me/username",
+  "forum_url": "https://t.me/NusantaraCommunity"
+}
