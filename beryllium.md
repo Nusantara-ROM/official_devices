@@ -1,4 +1,4 @@
-- 2 August 2020
+- 8 August 2020
 - beryllium  (Pocophone F1)
 
 - Device Changelog:
