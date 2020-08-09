@@ -1,15 +1,17 @@
 {
-  "error": false,
-  "id": "5e31444ecd062b9ce35e3f8f62d7cafe8edcf18ef1ef9a5956cd3ac6c9d3058a",
-  "datetime": 1596345660,
-  "version": "ALOK",
-  "size": 891415454,
-  "url": "https://sourceforge.net/projects/nusantaraproject/files/lavender/Nusantara_v1.0-lavender-02082020-OFFICIAL-0521.zip/download",
-  "filehash": "62be7b08726bcd326653f7105fd37630",
-  "website_url": "https://sourceforge.net/projects/nusantaraproject/",
-  "news_url": "https://t.me/NusantaraUpdates",
-  "donate_url": "https://www.paypal.me/travarilo",
-  "maintainer": "Genkzsz11",
-  "maintainer_url": "https://github.com/Genkzsz11",
-  "forum_url": "https://t.me/NusantaraCommunity"
+  "error"          : false,
+  "id"             : "947c2eb8d9b14a9b26168bbbe489af77d341939e70c9c70bbdb865e4bc6a64b9",
+  "filename"       : "Nusantara_v1.0-lavender-09082020-OFFICIAL-1200.zip",
+  "datetime"       : 1596974376,
+  "version"        : "1.0",
+  "size"           : 893515139,
+  "url"            : "https://sourceforge.net/projects/nusantaraproject/files/lavender/Nusantara_v1.0-lavender-09082020-OFFICIAL-1200.zip/download",
+  "filehash"       : "b4ae8724d157e31ca796c87fdd12f86d",
+  "website_url"    : "https://comingsoon",
+  "news_url"       : "https://t.me/NusantaraUpdates",
+  "donate_url"     : "https://www.paypal.me/travarilo",
+  "maintainer"     : "Genkzsz11",
+  "maintainer_url" : "https://github.com/Genkzsz11",
+  "forum_url"      : "https://t.me/NusantaraCommunity"
 }
+
