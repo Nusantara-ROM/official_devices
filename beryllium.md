@@ -1,5 +1,5 @@
 # beryllium  (Pocophone F1)
-- 18 August 2020
+- 20 August 2020
 
 # Device Changelog:
 - Implement to Pixel ThermalHAL v2.0
