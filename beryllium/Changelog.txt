@@ -1,0 +1,63 @@
+====================
+     09-05-2020
+====================
+   * vendor/nusantara
+517b1c8 branding: refactor all string
+a685134 vendor: pakages: switch to new OTA format
+
+
+====================
+     09-04-2020
+====================
+   * packages/apps/Settings
+3ffeacd23a SystemUpdatePreferenceController: change OTA app
+
+
+====================
+     09-03-2020
+====================
+   * frameworks/base
+2f50c13164f miuislider: Use vector drawables instead of png Change-Id: Ie54d0a9453a5f45d26670f407937ffdcb4ee6229
+5c3755ff36a Hide aosp brightness if Miui brightness slider enabled [1/2]
+a0e3ca7f25d Lockscreen art blur: smaller seekbar range and allow no blur [1/2]
+8e4d1ab5909 MusicCard: Turn off by default
+566d99dd7cb fixup! ticker after 3c456b191a8e729c3a789e5b51a205b5765439bb
+7e3d2bf5277 Lockscreen blur level: code fixes
+
+
+====================
+     09-02-2020
+====================
+   * tools/repohooks
+ec4cdcb drop python2 testing entirely
+
+
+====================
+     09-01-2020
+====================
+   * frameworks/base
+a510bd424b8 Avoid system reboot while invalidate LegacyGlobalAction
+af913747470 [BugFix][Fingerprint]fix client was canceled by service by mistake
+64322bbc830 TaskHelper: allow to get foreground app label
+3c456b191a8 Apply theme by using notification context
+3005e12a47c SystemUI: Add network_stack permission
+d8d4bb3fa16 core: set asus longshot as default [1/2]
+2511ce424a6 QSBHeader: Clicking data usage takesdata usage settings
+a736ff195be datausage: Fix default value
+ca8eed47397 fix qs icon for disco mode
+cf5b5b4be69 base: Add option to center "R style" notification headers [1/2]
+11bb7308341 base: Custom config to force custom doze brightness [1/2]
+109d6f49321 datausage: add toggle for qs datausage location [1/2]
+   * hardware/qcom-caf/msm8998/display
+3fb784bcf Merge tag 'LA.UM.8.2.r1-07200-sdm660.0' of https://source.codeaurora.org/quic/la/platform/hardware/qcom/display into HEAD
+   * packages/apps/DU-Tweaks
+293f7c1 datausage: Fix default values
+6d72e84 set default screenshot to longshot
+   * packages/apps/Launcher3
+8132c7c57 Launcher3: update recent tasks header style
+   * tools/repohooks
+324296b config: refactor PreUploadSettingsTests
+c9ba009 config: add {Local,Global}PreUploadFile classes
+7698778 pre-upload: drop support for Python 2
+
+
