@@ -1,9 +1,11 @@
-- 7 August 2020
+- 12 September 2020
 - ginkgo/willow (Xiaomi Redmi Note 8/T)
 
 - Device Changelog:
-• Initial release
-• OTA update supported now
-• Added MIUI Camera
-• Update build fp to crosshatch August patch
+• Selinux enforcing
+• Build variant user
+• Update some blobs from MIUI 20.9.2
 • Upstream changes
+
+- Notes:
+• OTA Updates broken now. Do manually clean flash.
