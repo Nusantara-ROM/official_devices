@@ -1,8 +1,9 @@
 # sagit (Mi 6)
-- 21 August 2020
+- 15 Sep 2020
 
 # Device Changelog:
-- Add Miui Camera
-- Add Google Camera
-- Add OP Screen Record
-- Nusantara parts
+  - Update display blobs
+  - Change kernel to placeholder .235
+  - Fix Night Light
+  - Fix HW light button
+  - Add FPS Info tiles
