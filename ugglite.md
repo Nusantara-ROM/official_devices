@@ -1,10 +1,11 @@
 # Nusantara Project
-
-- 10 August 2020
+ 
+- 17 September 2020
 - ugglite (Xiaomi Redmi Note 5A Lite)
 
 Device Changelog:
-• Initial release
-• Update specific carrier configs
-• Update build fingerprint to flame august
-• etc..
+• Update graphics blobs from LA.UM.8.6.r1-04400-89xx
+• Disabled VSync for rendered CPU apps
+• Update Thermal from Olive
+• Update qti-telephony from Olive
+and some minor improvements.. 

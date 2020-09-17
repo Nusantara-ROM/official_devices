@@ -1,12 +1,12 @@
 {
   "error"          : false,
-  "id"             : "b9089be92411116eddd4b3b5bcdc823ca36c128c60aae1b154eca74eb2a1e62a",
-  "filename"       : "Nusantara_v1.0-ugglite-10082020-OFFICIAL-0653.zip",
-  "datetime"       : 065310082020,
-  "version"        : "1.0",
-  "size"           : 679121626,
-  "url"            : "https://sourceforge.net/projects/nusantaraproject/files/ugglite/Nusantara_v1.0-ugglite-10082020-OFFICIAL-0653.zip/download",
-  "filehash"       : "48bc909f73a5310246d634b1d5940fc6",
+  "id"             : "1bc609ac398e256323d6beebaa22ab6390a95f669d4f72fa7fdd271e16b2028b",
+  "filename"       : "Nusantara_v1.1-ugglite-17092020-OFFICIAL-1053.zip",
+  "datetime"       : 1600339944,
+  "version"        : "1.1",
+  "size"           : 642609212,
+  "url"            : "https://sourceforge.net/projects/nusantaraproject/files/ugglite/Nusantara_v1.1-ugglite-17092020-OFFICIAL-1053.zip/download",
+  "filehash"       : "a6b8839adac7c64b053a57c7fc5636fc",
   "website_url"    : "https://comingsoon",
   "news_url"       : "https://t.me/NusantaraUpdates",
   "donate_url"     : "https://j.mp/3gGeG3o",
@@ -14,4 +14,3 @@
   "maintainer_url" : "https://github.com/fortifying",
   "forum_url"      : "https://t.me/NusantaraCommunity"
 }
-
