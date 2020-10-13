@@ -1,14 +1,11 @@
 # Nusantara Project
 
-09 August 2020
+13 October 2020
 riva (Xiaomi Redmi 5A)
 
 Device Changelog :
-- Add Dolby Moto
-- update graphics from LA.UM.8.6.r1-04400-89xx
-- update thermal config 
-- update thermal from olive Q
-- import iop stack from X00RD
-- add iop props in perfconfigstore
-- Enable UXE and IOP in perfconfigstore 
-- upstream coral fp to september
+- October Security Patch
+- Compiled with aosp clang 11.0.5 
+- Ship with 4.9 Kernel
+- added App Locker (see Settings -> Security -> App locker)
+- Using default fp
