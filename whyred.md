@@ -2,6 +2,12 @@
 
 Device Changelog for Whyred (Redmi Note 5 AI Dual Camera)
 
+15 October 2020
+
+- Improve charging speed over USB
+- Improve charging speed at 70 - 90 %
+- Remove redundant Dirac Settings 
+
 12 September 2020
 
 - Added Dirac Audio
